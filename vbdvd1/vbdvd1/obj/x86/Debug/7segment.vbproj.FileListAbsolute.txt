@@ -1,0 +1,9 @@
+C:\Users\xman\Documents\Visual Studio 2010\Projects\vbdvd1\vbdvd1\bin\Debug\vbdvd1.exe
+C:\Users\xman\Documents\Visual Studio 2010\Projects\vbdvd1\vbdvd1\bin\Debug\vbdvd1.pdb
+C:\Users\xman\Documents\Visual Studio 2010\Projects\vbdvd1\vbdvd1\bin\Debug\vbdvd1.xml
+C:\Users\xman\Documents\Visual Studio 2010\Projects\vbdvd1\vbdvd1\obj\x86\Debug\vbdvd1.Form1.resources
+C:\Users\xman\Documents\Visual Studio 2010\Projects\vbdvd1\vbdvd1\obj\x86\Debug\vbdvd1.Resources.resources
+C:\Users\xman\Documents\Visual Studio 2010\Projects\vbdvd1\vbdvd1\obj\x86\Debug\7segment.vbproj.GenerateResource.Cache
+C:\Users\xman\Documents\Visual Studio 2010\Projects\vbdvd1\vbdvd1\obj\x86\Debug\vbdvd1.exe
+C:\Users\xman\Documents\Visual Studio 2010\Projects\vbdvd1\vbdvd1\obj\x86\Debug\vbdvd1.xml
+C:\Users\xman\Documents\Visual Studio 2010\Projects\vbdvd1\vbdvd1\obj\x86\Debug\vbdvd1.pdb

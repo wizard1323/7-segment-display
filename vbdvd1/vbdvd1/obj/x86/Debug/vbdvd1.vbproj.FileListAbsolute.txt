@@ -1,0 +1,9 @@
+c:\users\xman\documents\visual studio 2010\Projects\vbdvd1\vbdvd1\bin\Debug\vbdvd1.exe
+c:\users\xman\documents\visual studio 2010\Projects\vbdvd1\vbdvd1\bin\Debug\vbdvd1.pdb
+c:\users\xman\documents\visual studio 2010\Projects\vbdvd1\vbdvd1\bin\Debug\vbdvd1.xml
+c:\users\xman\documents\visual studio 2010\Projects\vbdvd1\vbdvd1\obj\x86\Debug\vbdvd1.Form1.resources
+c:\users\xman\documents\visual studio 2010\Projects\vbdvd1\vbdvd1\obj\x86\Debug\vbdvd1.Resources.resources
+c:\users\xman\documents\visual studio 2010\Projects\vbdvd1\vbdvd1\obj\x86\Debug\vbdvd1.vbproj.GenerateResource.Cache
+c:\users\xman\documents\visual studio 2010\Projects\vbdvd1\vbdvd1\obj\x86\Debug\vbdvd1.exe
+c:\users\xman\documents\visual studio 2010\Projects\vbdvd1\vbdvd1\obj\x86\Debug\vbdvd1.xml
+c:\users\xman\documents\visual studio 2010\Projects\vbdvd1\vbdvd1\obj\x86\Debug\vbdvd1.pdb
